@@ -1,8 +1,10 @@
 {
-    "workbench.colorTheme": "Atom One Dark",
+    "workbench.colorTheme": "Andromeda",
     "workbench.preferredDarkColorTheme": "Visual Studio Dark",
     "workbench.preferredLightColorTheme": "Visual Studio Dark",
     "workbench.preferredHighContrastLightColorTheme": "Visual Studio Dark",
     "workbench.editor.decorations.colors": true,
     "workbench.preferredHighContrastColorTheme": "Visual Studio Dark"
+    "editor.fontSize": 16,
+
 }
